@@ -51,8 +51,8 @@ git clone https://github.com/bitbybit-uat/helloworld.git
 - On Windows, type this in a PowerShell or command line window:
 `python -V` or `python --version`
 - On MacOS or Linux, type this in a Terminal window (or you favorite terminal emulator):
-`python3 -V` or `python3 --version```
-If those commands don't return a version or return an error, you can find a complete guide on installing Python on your machine [here](https://realpython.com/installing-python/)
+`python3 -V` or `python3 --version`
+- If those commands don't return a version or return an error, you can find a complete guide on installing Python on your machine [here](https://realpython.com/installing-python/)
 
 # Running the project
 Change directory into the **helloworld** directory
