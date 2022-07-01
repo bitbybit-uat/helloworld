@@ -11,7 +11,7 @@ choco install -y git
 ```
 - If you have the [winget](https://docs.microsoft.com/en-us/windows/package-manager/winget/) tool installed, type this in a PowerShell or command line window:
 ```
-winget installed --id Git.Git -e --source winget
+winget install --id Git.Git -e --source winget
 ```
 - If you want to be a pleb and just install git via GUI, click [here](https://github.com/git-for-windows/git/releases/download/v2.37.0.windows.1/Git-2.37.0-64-bit.exe)
 
