@@ -5,7 +5,7 @@ Clone this project to see a basic project, written in Python, which will output 
 
 # Installing Git
 To install the git command-line interface (CLI) on a Windows machine:
-- If you have Chocolatey installed (which you can do [here](https://chocolatey.org/install#individual), type this in a PowerShell or command line window:
+- If you have the [Chocolatey](https://chocolatey.org/install#individual) tool installed, type this in a PowerShell or command line window:
 ```
 choco install -y git
 ```
@@ -16,11 +16,11 @@ winget installed --id Git.Git -e --source winget
 - If you want to be a pleb and just install git via GUI, click [here](https://github.com/git-for-windows/git/releases/download/v2.37.0.windows.1/Git-2.37.0-64-bit.exe)
 
 To install the git command-line interface (CLI) on a MacOS machine:
-- If you have homebrew insatlled (which you can do [here](brew.sh), type this in a Terminal window (or your favorite terminal emulator):
+- If you have homebrew insatlled (which you can do [here](brew.sh)), type this in a Terminal window (or your favorite terminal emulator):
 ```
 brew install git
 ```
-- If you have MacPorts installed (which you can do [here](https://guide.macports.org/chunked/installing.macports.html), type this in a Terminal window (or your favorite terminal emulator:
+- If you have MacPorts installed (which you can do [here](https://guide.macports.org/chunked/installing.macports.html)), type this in a Terminal window (or your favorite terminal emulator):
 ```
 sudo port install git
 ```
