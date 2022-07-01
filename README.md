@@ -42,12 +42,12 @@ sudo pacman -S git
 ```
 - For other distributions of Linx or other Unix-based systems, install git via instructions found [here](https://git-scm.com/download/linux)
 
-To clone this project, use
+# To clone this project, use
 ```
 git clone https://github.com/bitbybit-uat/helloworld.git
 ```
 
-# Ensure you have python insatlled
+# Ensure you have Python installed
 - On Windows, type this in a PowerShell or command line window:
 `python -V` or `python --version`
 - On MacOS or Linux, type this in a Terminal window (or you favorite terminal emulator):
