@@ -1,0 +1,11 @@
+C:\Users\kadaf\OneDrive\Documents\C#Class\HelloWorldC#\HelloWorldCSharp\HelloWorldCSharp\obj\Debug\HelloWorldCSharp.csproj.AssemblyReference.cache
+C:\Users\kadaf\OneDrive\Documents\C#Class\HelloWorldC#\HelloWorldCSharp\HelloWorldCSharp\obj\Debug\HelloWorldCSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\kadaf\OneDrive\Documents\C#Class\HelloWorldC#\HelloWorldCSharp\HelloWorldCSharp\obj\Debug\HelloWorldCSharp.Properties.Resources.resources
+C:\Users\kadaf\OneDrive\Documents\C#Class\HelloWorldC#\HelloWorldCSharp\HelloWorldCSharp\obj\Debug\HelloWorldCSharp.csproj.GenerateResource.cache
+C:\Users\kadaf\OneDrive\Documents\C#Class\HelloWorldC#\HelloWorldCSharp\HelloWorldCSharp\obj\Debug\HelloWorldCSharp.csproj.CoreCompileInputs.cache
+C:\Users\kadaf\OneDrive\Documents\C#Class\HelloWorldC#\HelloWorldCSharp\HelloWorldCSharp\bin\Debug\HelloWorldCSharp.exe.config
+C:\Users\kadaf\OneDrive\Documents\C#Class\HelloWorldC#\HelloWorldCSharp\HelloWorldCSharp\bin\Debug\HelloWorldCSharp.exe
+C:\Users\kadaf\OneDrive\Documents\C#Class\HelloWorldC#\HelloWorldCSharp\HelloWorldCSharp\bin\Debug\HelloWorldCSharp.pdb
+C:\Users\kadaf\OneDrive\Documents\C#Class\HelloWorldC#\HelloWorldCSharp\HelloWorldCSharp\obj\Debug\HelloWorldCSharp.exe
+C:\Users\kadaf\OneDrive\Documents\C#Class\HelloWorldC#\HelloWorldCSharp\HelloWorldCSharp\obj\Debug\HelloWorldCSharp.pdb
+C:\Users\kadaf\OneDrive\Documents\C#Class\HelloWorldC#\HelloWorldCSharp\HelloWorldCSharp\obj\Debug\HelloWorldCSharp.Form1.resources
