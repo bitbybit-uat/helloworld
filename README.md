@@ -46,8 +46,8 @@ sudo pacman -S git
 ```
 git clone https://github.com/bitbybit-uat/helloworld.git
 ```
-
-# Ensure you have Python installed
+# For running the Python helloworld.py project
+*Ensure you have Python installed*
 - On Windows, type this in a PowerShell or command line window:
 `python -V` or `python --version`
 - On MacOS or Linux, type this in a Terminal window (or you favorite terminal emulator):
@@ -55,17 +55,19 @@ git clone https://github.com/bitbybit-uat/helloworld.git
 - If those commands don't return a version or return an error, you can find a complete guide on installing Python on your machine [here](https://realpython.com/installing-python/)
 
 # Running the project
-Change directory into the **helloworld** directory
+Change directory into the **helloworld/python** directory
 ```
-cd helloworld
+cd helloworld/python
 ```
-- If you are on Windows, type the following in the **helloworld** directory:
+- If you are on Windows, type the following in the **helloworld/python** directory:
 ```
 python helloworld.py
 ```
-- If you are on MacOS or Linux, type the following in the **helloworld** directory:
+- If you are on MacOS or Linux, type the following in the **helloworld/python** directory:
 ```
 python3 helloworld.py
 ```
+
+# For running the C++ HelloWorldC "this needs more work"
 
 # Enjoy!!
